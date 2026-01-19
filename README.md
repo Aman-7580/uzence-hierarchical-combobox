@@ -81,3 +81,4 @@ npm run storybook
 
 **Author:** Aman Panwar  
 **Assignment:** Front End Development Internship – Uzence Design Studio
+_Last updated for Chromatic deployment._
